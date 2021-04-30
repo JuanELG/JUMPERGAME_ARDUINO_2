@@ -18,4 +18,6 @@ El proyecto fue realizado con assets gratuitos de la asset store de unity.
 - Obstaculos (Barriles): https://assetstore.unity.com/packages/3d/props/barrels-32975
 - Character 3D sin animaciones: https://assetstore.unity.com/packages/3d/characters/humanoids/girl-with-clothes-worker-set-162925
 
-# Nota:Dentro de la  carpeta scrips hay una carpeta llamada "Jumper" la cual contiene el codigo del arduino para ejecutarlo en la interfaz de programación de arduino. #
+Nota:Dentro de la  carpeta scrips hay una carpeta llamada "Jumper" la cual contiene el codigo del arduino para ejecutarlo en la interfaz de programación de arduino.
+
+Video explicativo: https://youtu.be/HDnyKBjnS6c
